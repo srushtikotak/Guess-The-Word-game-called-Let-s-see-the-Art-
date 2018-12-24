@@ -35,7 +35,7 @@ public class ArtWork {
         Scanner sc  = new Scanner(System.in);
         int index = 0;
          //Initialising an array to store words in text file.
-         String[] inline = new String[5];
+         String[] inline = new String[8];
 
         try {
             // Taking input as a .txt file
